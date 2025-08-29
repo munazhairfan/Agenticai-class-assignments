@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "question": "What are your delivery charges?",
+      "answer": "We offer free delivery for orders above Rs. 2000. For smaller orders, a flat Rs. 200 delivery fee applies."
+    },
+    {
+      "question": "How long does delivery take?",
+      "answer": "Delivery usually takes 3-5 working days depending on your location."
+    },
+    {
+      "question": "Do you offer international shipping?",
+      "answer": "Currently, we only ship within Pakistan."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept Cash on Delivery, Bank Transfer, and major debit/credit cards."
+    },
+    {
+      "question": "How can I return a product?",
+      "answer": "You can return products within 7 days of delivery if they are unused and in original condition. Contact our support to initiate the return."
+    }
+  ]
+}

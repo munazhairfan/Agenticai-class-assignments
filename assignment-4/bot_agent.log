@@ -1,0 +1,84 @@
+2025-08-27 02:09:27,844 [INFO] Starting system...
+2025-08-27 02:09:47,144 [INFO] Input guardrail triggered.
+2025-08-27 02:09:49,798 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-27 02:09:50,416 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-27 02:09:50,423 [INFO] No offensive language or negative sentiment detected.
+2025-08-28 00:33:51,454 [INFO] Starting system...
+2025-08-28 00:34:02,239 [INFO] Input guardrail triggered.
+2025-08-28 00:34:04,908 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-28 00:34:04,932 [WARNING] Tripewire Triggered.
+2025-08-28 00:34:24,565 [INFO] Input guardrail triggered.
+2025-08-28 00:34:26,208 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 400 Bad Request"
+2025-08-30 00:35:11,984 [INFO] Starting system...
+2025-08-30 00:35:16,950 [INFO] Input guardrail triggered.
+2025-08-30 00:35:19,061 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 00:35:19,137 [INFO] No offensive language or negative sentiment detected.
+2025-08-30 00:35:19,778 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 00:51:54,342 [INFO] Starting system...
+2025-08-30 00:51:54,346 [INFO] Input guardrail triggered.
+2025-08-30 00:51:56,418 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 00:51:56,498 [INFO] No offensive language or negative sentiment detected.
+2025-08-30 00:51:58,025 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 00:55:31,817 [INFO] Starting system...
+2025-08-30 00:55:31,820 [INFO] Input guardrail triggered.
+2025-08-30 00:55:34,090 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 00:55:34,147 [INFO] No offensive language or negative sentiment detected.
+2025-08-30 00:55:34,226 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 00:59:19,573 [INFO] Starting system...
+2025-08-30 00:59:21,792 [INFO] Input guardrail triggered.
+2025-08-30 00:59:24,168 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 00:59:24,240 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 00:59:24,262 [INFO] No offensive language or negative sentiment detected.
+2025-08-30 01:01:07,636 [INFO] Starting system...
+2025-08-30 01:01:08,244 [INFO] Input guardrail triggered.
+2025-08-30 01:01:10,162 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:01:10,219 [INFO] No offensive language or negative sentiment detected.
+2025-08-30 01:01:10,774 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:03:25,985 [INFO] Starting system...
+2025-08-30 01:03:25,988 [INFO] Input guardrail triggered.
+2025-08-30 01:03:27,843 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:03:27,917 [INFO] No offensive language or negative sentiment detected.
+2025-08-30 01:03:28,880 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:05:38,177 [INFO] Starting system...
+2025-08-30 01:05:38,179 [WARNING] Tripewire Triggered.
+2025-08-30 01:05:57,963 [INFO] Starting system...
+2025-08-30 01:05:57,966 [WARNING] Tripewire Triggered.
+2025-08-30 01:11:03,402 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:11:40,068 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:14:38,070 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:14:39,320 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:15:03,483 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:15:04,279 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:15:25,041 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:15:25,095 [INFO] Tool is called.
+2025-08-30 01:31:41,155 [INFO] Starting system...
+2025-08-30 01:31:58,897 [INFO] Input guardrail triggered.
+2025-08-30 01:32:01,044 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:32:01,084 [INFO] Tool is called.
+2025-08-30 01:32:01,811 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:32:01,831 [INFO] No offensive language or negative sentiment detected.
+2025-08-30 01:32:02,512 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:32:13,149 [INFO] Starting system...
+2025-08-30 01:32:18,067 [INFO] Input guardrail triggered.
+2025-08-30 01:32:19,731 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:32:19,793 [INFO] Tool is called.
+2025-08-30 01:32:19,793 [INFO] Order ID not found.
+2025-08-30 01:32:19,876 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:32:19,890 [INFO] No offensive language or negative sentiment detected.
+2025-08-30 01:32:20,534 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:32:26,219 [INFO] Starting system...
+2025-08-30 01:32:31,362 [INFO] Input guardrail triggered.
+2025-08-30 01:32:32,994 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:32:33,034 [INFO] No offensive language or negative sentiment detected.
+2025-08-30 01:32:33,444 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:33:00,309 [INFO] Starting system...
+2025-08-30 01:33:03,015 [INFO] Input guardrail triggered.
+2025-08-30 01:33:05,190 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:33:05,231 [INFO] No offensive language or negative sentiment detected.
+2025-08-30 01:33:05,641 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:33:07,342 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:33:21,364 [INFO] Starting system...
+2025-08-30 01:33:25,058 [INFO] Input guardrail triggered.
+2025-08-30 01:33:26,930 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:33:27,178 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/openai/chat/completions "HTTP/1.1 200 OK"
+2025-08-30 01:33:27,189 [INFO] No offensive language or negative sentiment detected.
